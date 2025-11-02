@@ -309,12 +309,6 @@ section {
     left: -100%;
   }
 }
-/* Desktop photo sizing*/
-.images
-{ width: 500;
-  aspect-ratio: 4/3;
-  object-fit: contain;
-}
 /**
 * Mobile Navigation 
 */
